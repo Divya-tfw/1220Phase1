@@ -61,7 +61,7 @@
 			
 			
 			<!-- Offline reports -->
-			<report type="html" logdir="D:\Allworkspace\12TwentyReport"/>
+			<report type="html" logdir="D:\TeamCity\BuildAgent-QA-01\temp\buildTmp"/>
 		</sahi>
 		<antcall target="failsahifirefox"/>
 	</target>
