@@ -53,7 +53,7 @@ $sMBA_Site_Type="MBA Standard Reports (12)";
 $sSite_Texas_FTMBA="Texas_FTMBA";
 $sSite_Texas_PTMBA="Texas_PTMBA";
 $sSite_Harvard_FTMBA="Harvard_FTMBA";
-$sReport_Compensation="Compensation Report";
+$sReport_Com="Compensation Report";
 $sBWR_Site_Type="Business Week Report (10)";
 $sSubReport_BWR1="Forgone Salary";
 $sSubReport_BWR2="Top 15 Employers";
@@ -80,7 +80,8 @@ $sCS_Site_UNC="UNC_Centralized";
 $sCS_Subreport="Internship";
 $sList_data=5;
 //Path of the csv files
-$path_datafile ="../excels/Data_QA_Tests.xlsx";
+//$path_datafile ="C:/sahiprov610/userdata/12twenty\\excels\\Data_QA_Tests.xlsx";
+$path_datafile="D:/Sahi_pro/userdata/1220_Phase1/excels/Data_QA_Tests.xlsx";
 //Baseline path for files
 $path_baseline ="D:\\Allworkspace\\12TwentyReport\\Baseline\\Build_No"+"_"+$sBaselineBuildNumber+"\\";
 //Baseline directory
